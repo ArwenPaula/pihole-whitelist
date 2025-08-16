@@ -65,6 +65,7 @@ ajax.googleapis.com
 #clients2.google.com
 
 # ShortLinks
+ouo.io
 uii.io
 linkpay.top
 shrinkearn.com
