@@ -6,13 +6,11 @@ honzik.avcdn.net
 ncc.avast.com
 ipmcdn.avast.com
 
-
 # Servicios de Google
 apis.google.com
 ajax.googleapis.com
 clients4.google.com
 clients2.google.com
-
 
 # Fuentes y CDNs comunes
 fonts.gstatic.com
@@ -21,10 +19,8 @@ use.fontawesome.com
 cdn.jsdelivr.net
 cdnjs.cloudflare.com
 
-
 # Facebook / Meta
 connect.facebook.net
-
 
 # Para mails promos
 app2.salesmanago.pl
@@ -35,11 +31,9 @@ micuenta.invertironline.com
 api-gat-app.invertironline.com
 gat-app-public.iolinversiones.com
 
-
 #cloudflare
 cdn.cloudflare.net
 cdnjs.cloudflare.com
-
 
 # --------------------------------------------
 
