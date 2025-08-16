@@ -17,7 +17,6 @@ fonts.gstatic.com
 fonts.googleapis.com
 use.fontawesome.com
 cdn.jsdelivr.net
-cdnjs.cloudflare.com
 
 # Facebook / Meta
 connect.facebook.net
