@@ -31,8 +31,9 @@ connect.facebook.net
 
 # Faucet
 adbtc.top
-btcclicks.com
 autofaucet.dutchycorp.space
+btcclicks.com
+teaserfast.ru
 
 # Fuentes y CDNs comunes
 fonts.gstatic.com
