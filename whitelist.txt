@@ -1,0 +1,29 @@
+# Antivirus (Avast)
+emupdate.avcdn.net
+shepherd.avcdn.net
+ipm.avcdn.net
+honzik.avcdn.net
+ncc.avast.com
+ipmcdn.avast.com
+
+
+# Servicios de Google
+apis.google.com
+ajax.googleapis.com
+clients4.google.com
+clients2.google.com
+
+
+# Fuentes y CDNs comunes
+fonts.gstatic.com
+fonts.googleapis.com
+use.fontawesome.com
+cdn.jsdelivr.net
+cdnjs.cloudflare.com
+
+
+# Facebook / Meta
+static.xx.fbcdn.net
+connect.facebook.net
+# Para mails promos
+app2.salesmanago.pl
