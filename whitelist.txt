@@ -65,10 +65,11 @@ ajax.googleapis.com
 #clients2.google.com
 
 # ShortLinks
-ouo.io
-uii.io
+cuty.io
 linkpay.top
+ouo.io
 shrinkearn.com
+uii.io
 
 # WattPad
 www.wattpad.com
