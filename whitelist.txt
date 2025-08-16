@@ -66,6 +66,7 @@ ajax.googleapis.com
 
 # ShortLinks
 uii.io
+linkpay.top
 shrinkearn.com
 
 # WattPad
