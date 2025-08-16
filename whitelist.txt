@@ -33,6 +33,9 @@ connect.facebook.net
 adbtc.top
 autofaucet.dutchycorp.space
 btcclicks.com
+cointiply.com
+s.cointiply.com	
+dutchycorp.space
 teaserfast.ru
 
 # Fuentes y CDNs comunes
