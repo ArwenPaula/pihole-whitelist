@@ -36,6 +36,10 @@ btcclicks.com
 cointiply.com
 s.cointiply.com	
 dutchycorp.space
+freebitco.in
+captchas.freebitco.in
+cfpages.freebitco.in
+sirv.freebitco.in
 teaserfast.ru
 
 # Fuentes y CDNs comunes
