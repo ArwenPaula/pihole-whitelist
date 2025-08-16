@@ -6,31 +6,14 @@ honzik.avcdn.net
 ncc.avast.com
 ipmcdn.avast.com
 
-# Servicios de Google
-apis.google.com
-ajax.googleapis.com
-#clients4.google.com
-#clients2.google.com
+# Binance
+www.binance.com
+s.binance.com
 
-# Fuentes y CDNs comunes
-fonts.gstatic.com
-fonts.googleapis.com
-use.fontawesome.com
-cdn.jsdelivr.net
+# Banco / Fintech
+static.prod.naranjadev.com
 
-# Facebook / Meta
-connect.facebook.net
-
-# Para mails promos
-app2.salesmanago.pl
-
-# IOL
-iol.invertironline.com
-micuenta.invertironline.com
-api-gat-app.invertironline.com
-gat-app-public.iolinversiones.com
-
-#Cloudflare
+# Cloudflare
 a.nel.cloudflare.com
 ajax.cloudflare.com
 cdn.cloudflare.net
@@ -38,6 +21,47 @@ cdnjs.cloudflare.com
 challenges.cloudflare.com
 stun.cloudflare.com
 turn.cloudflare.com
+
+# Downloads
+download.megaup.net
+
+# Facebook / Meta
+connect.facebook.net
+
+# Faucet
+adbtc.top
+btcclicks.com
+autofaucet.dutchycorp.space
+
+# Fuentes y CDNs comunes
+fonts.gstatic.com
+fonts.googleapis.com
+use.fontawesome.com
+cdn.jsdelivr.net
+
+# Games
+www.skidrowreloaded.com
+
+# IOL
+iol.invertironline.com
+micuenta.invertironline.com
+api-gat-app.invertironline.com
+gat-app-public.iolinversiones.com
+
+# Mails promos
+app2.salesmanago.pl
+
+# ML
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
+mobile.mercadolibre.com.ar
+frontend.mercadolibre.com
+
+# Servicios de Google
+apis.google.com
+ajax.googleapis.com
+#clients4.google.com
+#clients2.google.com
 
 # ShortLinks
 uii.io
@@ -49,26 +73,6 @@ api.wattpad.com
 ma.wattpad.com
 img.wattpad.com
 
-# Faucet
-adbtc.top
-btcclicks.com
-autofaucet.dutchycorp.space
-
-# Games
-www.skidrowreloaded.com
-
-# Downloads
-download.megaup.net
-
-# Binance
-www.binance.com
-s.binance.com
-
-# ML
-www.mercadolibre.com.ar
-www.mercadopago.com.ar
-mobile.mercadolibre.com.ar
-frontend.mercadolibre.com
 
 # --------------------------------------------
 
