@@ -29,7 +29,16 @@ connect.facebook.net
 # Para mails promos
 app2.salesmanago.pl
 
+# IOL
+iol.invertironline.com
+micuenta.invertironline.com
+api-gat-app.invertironline.com
+gat-app-public.iolinversiones.com
 
+
+#cloudflare
+cdn.cloudflare.net
+cdnjs.cloudflare.com
 
 
 # --------------------------------------------
