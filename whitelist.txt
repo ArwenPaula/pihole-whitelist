@@ -31,9 +31,36 @@ micuenta.invertironline.com
 api-gat-app.invertironline.com
 gat-app-public.iolinversiones.com
 
-#cloudflare
+#Cloudflare
+a.nel.cloudflare.com
+ajax.cloudflare.com
 cdn.cloudflare.net
 cdnjs.cloudflare.com
+challenges.cloudflare.com
+stun.cloudflare.com
+turn.cloudflare.com
+
+# ShortLinks
+uii.io
+shrinkearn.com
+
+# WattPad
+www.wattpad.com
+api.wattpad.com
+ma.wattpad.com
+img.wattpad.com
+
+# Faucet
+adbtc.top
+btcclicks.com
+autofaucet.dutchycorp.space
+
+# Games
+www.skidrowreloaded.com
+
+# Downloads
+download.megaup.net
+
 
 # --------------------------------------------
 
