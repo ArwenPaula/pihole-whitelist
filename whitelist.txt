@@ -60,6 +60,15 @@ www.skidrowreloaded.com
 # Downloads
 download.megaup.net
 
+# Binance
+www.binance.com
+s.binance.com
+
+# ML
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
+mobile.mercadolibre.com.ar
+frontend.mercadolibre.com
 
 # --------------------------------------------
 
