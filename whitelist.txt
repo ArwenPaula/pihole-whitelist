@@ -13,7 +13,6 @@ s.binance.com
 # Banco / Fintech
 static.prod.naranjadev.com
 onlinebanking.bancogalicia.com.ar
-target.onlinebanking.bancogalicia.com.ar
 
 # Cloudflare
 a.nel.cloudflare.com
