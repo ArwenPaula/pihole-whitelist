@@ -74,6 +74,7 @@ ajax.googleapis.com
 
 # ShortLinks
 cuty.io
+cdn.cuty.io
 linkpay.top
 ouo.io
 shrinkearn.com
