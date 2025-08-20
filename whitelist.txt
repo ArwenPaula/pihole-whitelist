@@ -72,14 +72,25 @@ frontend.mercadolibre.com
 # clients4.google.com
 # clients2.google.com
 
-# ShortLinks
+# ShortLinks # URL shorteners
 cuty.io
 cdn.cuty.io
 linkpay.top
+oii.la
 ouo.io
 shrinkearn.com
 t.co
 uii.io
+t.ly
+adf.ly
+www.adf.ly
+bit.ly
+www.bit.ly
+goo.gl
+ow.ly
+www.ow.ly
+amzn.to
+amzn.com
 
 # WattPad
 www.wattpad.com
@@ -128,18 +139,6 @@ time.samsungcloudsolution.com
 
 # Samsung smart TV's network issue
 cdn.samsungcloudsolution.com
-
-# URL shorteners
-t.ly
-adf.ly
-www.adf.ly
-bit.ly
-www.bit.ly
-goo.gl
-ow.ly
-www.ow.ly
-amzn.to
-amzn.com
 
 # Videos not playing on  arstechnica/wired/vogue/newyorker
 # Nota: Es posible que aparezcan anuncios antes de los videos después de incluir este dominio en la lista blanca.
