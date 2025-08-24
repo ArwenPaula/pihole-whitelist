@@ -9,6 +9,7 @@ ipmcdn.avast.com
 # Binance
 www.binance.com
 s.binance.com
+log.bntrace.com
 
 # Banco / Fintech
 static.prod.naranjadev.com
