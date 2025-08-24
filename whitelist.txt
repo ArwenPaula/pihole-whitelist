@@ -93,6 +93,7 @@ ow.ly
 www.ow.ly
 amzn.to
 amzn.com
+howifx.com
 
 # WattPad
 www.wattpad.com
