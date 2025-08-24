@@ -48,7 +48,7 @@ teaserfast.ru
 # Fuentes y CDNs comunes
 fonts.gstatic.com
 fonts.googleapis.com
-use.fontawesome.com
+# use.fontawesome.com
 cdn.jsdelivr.net
 
 # Games
@@ -85,13 +85,6 @@ shrinkearn.com
 t.co
 uii.io
 t.ly
-adf.ly
-www.adf.ly
-bit.ly
-www.bit.ly
-goo.gl
-ow.ly
-www.ow.ly
 amzn.to
 amzn.com
 howifx.com
@@ -105,10 +98,6 @@ img.wattpad.com
 
 # --------------------------------------------
 
-# Amazon Alexa and Amazon Shopping app
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
-
 # Amazon Kindle
 cognito-identity.us-east-1.amazonaws.com
 unagi-na.amazon.com
@@ -118,9 +107,6 @@ todo-ta-g7g.amazon.com
 device-messaging-na.amazon.com
 s3-eu-west-1.amazonaws.com
 us-east-1.amazonaws.com
-
-# Amazon AWS (???) - whitelist to make Kryptonite work
-sqs.us-east-1.amazonaws.com
 
 # GeForce Experience
 events.gfe.nvidia.com
@@ -147,9 +133,6 @@ cdn.samsungcloudsolution.com
 # Videos not playing on  arstechnica/wired/vogue/newyorker
 # Nota: Es posible que aparezcan anuncios antes de los videos después de incluir este dominio en la lista blanca.
 # d2c8v52ll5s99u.cloudfront.net
-
-# Videos not playing on www.jacquielawson.com
-# f1.media.brightcove.com
 
 # Xbox Achievements and game stats sync
 v10.events.data.microsoft.com
