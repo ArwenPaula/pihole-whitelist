@@ -54,6 +54,10 @@ cdn.jsdelivr.net
 # Games
 www.skidrowreloaded.com
 
+# GeForce Experience
+events.gfe.nvidia.com
+gfwsl.geforce.com
+
 # Google
 video-downloads.googleusercontent.com
 # apis.google.com
@@ -76,6 +80,9 @@ www.mercadopago.com.ar
 mobile.mercadolibre.com.ar
 frontend.mercadolibre.com
 
+# Nvidia updates
+ota-downloads.nvidia.com
+
 # ShortLinks # URL shorteners
 cuty.io
 cdn.cuty.io
@@ -96,7 +103,6 @@ api.wattpad.com
 ma.wattpad.com
 img.wattpad.com
 
-
 # --------------------------------------------
 
 # Amazon Kindle
@@ -108,13 +114,6 @@ todo-ta-g7g.amazon.com
 device-messaging-na.amazon.com
 s3-eu-west-1.amazonaws.com
 us-east-1.amazonaws.com
-
-# GeForce Experience
-events.gfe.nvidia.com
-gfwsl.geforce.com
-
-# Nvidia updates
-ota-downloads.nvidia.com
 
 # Pluto.tv
 images.pluto.tv
