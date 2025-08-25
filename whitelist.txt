@@ -6,14 +6,16 @@ honzik.avcdn.net
 ncc.avast.com
 ipmcdn.avast.com
 
+# Banco / Fintech
+bancodegaliciaybuenosairessau.data.adobedc.net
+galiciabanco.tt.omtrdc.net
+onlinebanking.bancogalicia.com.ar
+static.prod.naranjadev.com
+
 # Binance
 www.binance.com
 s.binance.com
 log.bntrace.com
-
-# Banco / Fintech
-static.prod.naranjadev.com
-onlinebanking.bancogalicia.com.ar
 
 # Cloudflare
 a.nel.cloudflare.com
