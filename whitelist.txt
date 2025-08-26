@@ -53,6 +53,7 @@ fonts.googleapis.com
 # use.fontawesome.com
 cdn.jsdelivr.net
 
+
 # Games
 www.skidrowreloaded.com
 
@@ -60,8 +61,9 @@ www.skidrowreloaded.com
 events.gfe.nvidia.com
 gfwsl.geforce.com
 
-# Google
+# Google / Microsoft
 video-downloads.googleusercontent.com
+settings-win.data.microsoft.com
 # apis.google.com
 # ajax.googleapis.com
 # clients4.google.com
