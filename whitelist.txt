@@ -53,7 +53,6 @@ fonts.googleapis.com
 # use.fontawesome.com
 cdn.jsdelivr.net
 
-
 # Games
 www.skidrowreloaded.com
 
@@ -77,6 +76,7 @@ gat-app-public.iolinversiones.com
 
 # Mails promos
 app2.salesmanago.pl
+mandrillapp.com
 
 # ML
 www.mercadolibre.com.ar
