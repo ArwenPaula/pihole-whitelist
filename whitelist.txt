@@ -6,11 +6,16 @@ honzik.avcdn.net
 ncc.avast.com
 ipmcdn.avast.com
 
-# Banco / Fintech
+# Banco / Fintech / Aysa / Metrogas
 bancodegaliciaybuenosairessau.data.adobedc.net
 galiciabanco.tt.omtrdc.net
 onlinebanking.bancogalicia.com.ar
 static.prod.naranjadev.com
+www.aysa.com.ar
+portal.web.aysa.com.ar
+acceso.web.aysa.com.ar
+www.metrogas.com.ar	
+portal.micuenta.metrogas.com.ar	
 
 # Binance
 www.binance.com
