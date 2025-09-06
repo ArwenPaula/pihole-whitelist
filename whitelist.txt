@@ -95,6 +95,7 @@ frontend.mercadolibre.com
 ota-downloads.nvidia.com
 
 # ShortLinks # URL shorteners
+cutt.ly
 cuty.io
 cdn.cuty.io
 linkpay.top
