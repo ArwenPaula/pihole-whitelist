@@ -19,11 +19,14 @@ portal.micuenta.metrogas.com.ar
 
 # Binance
 accounts.binance.com
-api.binance.com	
+api.binance.com
 www.binance.com
 native.binance.com
 s.binance.com
 log.bntrace.com
+web3.binance.com
+stream.binance.com
+nbstream.binance.com
 
 # Cloudflare
 a.nel.cloudflare.com
