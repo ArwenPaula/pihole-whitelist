@@ -18,6 +18,8 @@ www.metrogas.com.ar
 portal.micuenta.metrogas.com.ar	
 
 # Binance
+accounts.binance.com
+api.binance.com	
 www.binance.com
 native.binance.com
 s.binance.com
