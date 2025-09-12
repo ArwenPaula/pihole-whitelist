@@ -27,6 +27,9 @@ log.bntrace.com
 web3.binance.com
 stream.binance.com
 nbstream.binance.com
+p2p.binance.com
+app.binance.com
+im.binance.com
 
 # Cloudflare
 a.nel.cloudflare.com
