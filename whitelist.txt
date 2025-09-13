@@ -8,6 +8,7 @@ ipmcdn.avast.com
 
 # Banco / Fintech / Aysa / Metrogas
 bancodegaliciaybuenosairessau.data.adobedc.net
+galiciabanco-mkt-prod3-lb.campaign.adobe.com
 galiciabanco.tt.omtrdc.net
 onlinebanking.bancogalicia.com.ar
 static.prod.naranjadev.com
