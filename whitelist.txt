@@ -84,6 +84,7 @@ apis.google.com
 ajax.googleapis.com
 clients4.google.com
 clients2.google.com
+drivefrontend-pa.clients6.google.com
 
 # IOL
 iol.invertironline.com
