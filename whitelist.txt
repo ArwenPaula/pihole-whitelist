@@ -78,10 +78,11 @@ gfwsl.geforce.com
 # Google / Microsoft
 video-downloads.googleusercontent.com
 settings-win.data.microsoft.com
-# apis.google.com
-# ajax.googleapis.com
-# clients4.google.com
-# clients2.google.com
+www.microsoft.com
+apis.google.com
+ajax.googleapis.com
+clients4.google.com
+clients2.google.com
 
 # IOL
 iol.invertironline.com
