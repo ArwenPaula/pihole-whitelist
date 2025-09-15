@@ -52,7 +52,8 @@ adbtc.top
 autofaucet.dutchycorp.space
 btcclicks.com
 cointiply.com
-s.cointiply.com	
+s.cointiply.com
+analytics.cointiply.com
 dutchycorp.space
 faucetpay.io
 freebitco.in
