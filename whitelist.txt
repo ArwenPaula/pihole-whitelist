@@ -79,6 +79,7 @@ gfwsl.geforce.com
 # Google / Microsoft
 video-downloads.googleusercontent.com
 settings-win.data.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
 www.microsoft.com
 apis.google.com
 ajax.googleapis.com
