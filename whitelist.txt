@@ -7,6 +7,7 @@ ncc.avast.com
 ipmcdn.avast.com
 
 # Banco / Fintech / Aysa / Metrogas
+www.bna.com.ar
 bancodegaliciaybuenosairessau.data.adobedc.net
 galiciabanco-mkt-prod3-lb.campaign.adobe.com
 galiciabanco.tt.omtrdc.net
