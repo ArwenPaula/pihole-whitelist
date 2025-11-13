@@ -79,10 +79,10 @@ events.gfe.nvidia.com
 gfwsl.geforce.com
 
 # Google / Microsoft
-video-downloads.googleusercontent.com
+www.microsoft.com
 settings-win.data.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
-www.microsoft.com
+video-downloads.googleusercontent.com
 #apis.google.com
 #ajax.googleapis.com
 #clients2.google.com
