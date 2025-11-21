@@ -83,14 +83,19 @@ www.microsoft.com
 settings-win.data.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 video-downloads.googleusercontent.com
+store-images.microsoft.com
+store-images.s-microsoft.com
 #apis.google.com
 #ajax.googleapis.com
 #clients2.google.com
 #clients4.google.com
-#clients6.google.com
-#addons-pa.clients6.google.com	
-#drivefrontend-pa.clients6.google.com
 
+# Drive.google.com
+clients6.google.com
+addons-pa.clients6.google.com
+drivefrontend-pa.clients6.google.com
+people-pa.clients6.google.com
+peoplestack-pa.clients6.google.com
 
 # IOL
 iol.invertironline.com
