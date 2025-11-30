@@ -138,6 +138,9 @@ api.wattpad.com
 ma.wattpad.com
 img.wattpad.com
 
+# Whats App Web
+wa.me
+
 # --------------------------------------------
 
 # Amazon Kindle
