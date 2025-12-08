@@ -17,7 +17,8 @@ www.aysa.com.ar
 portal.web.aysa.com.ar
 acceso.web.aysa.com.ar
 www.metrogas.com.ar	
-portal.micuenta.metrogas.com.ar	
+portal.micuenta.metrogas.com.ar
+tracking-api.andreani.com
 
 # Binance
 accounts.binance.com
@@ -45,8 +46,9 @@ turn.cloudflare.com
 # Downloads
 download.megaup.net
 
-# Facebook / Meta
+# Facebook / Meta / Youtube
 # connect.facebook.net
+www.youtube-nocookie.com
 
 # Faucet
 adbtc.top
@@ -74,11 +76,12 @@ cdn.jsdelivr.net
 # Games
 www.skidrowreloaded.com
 
-# GeForce Experience
+# GeForce Experience # Nvidia updates
+ota-downloads.nvidia.com
 events.gfe.nvidia.com
 gfwsl.geforce.com
 
-# Google / Microsoft
+# Microsoft / Google / Google Traductor / Google imagenes
 www.microsoft.com
 settings-win.data.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
@@ -87,8 +90,10 @@ store-images.microsoft.com
 store-images.s-microsoft.com
 #apis.google.com
 #ajax.googleapis.com
-#clients2.google.com
-#clients4.google.com
+clients2.google.com
+clients4.google.com
+taskassist-pa.clients6.google.com
+tpc.googlesyndication.com
 
 # Drive.google.com
 clients6.google.com
@@ -112,9 +117,6 @@ www.mercadolibre.com.ar
 www.mercadopago.com.ar
 mobile.mercadolibre.com.ar
 frontend.mercadolibre.com
-
-# Nvidia updates
-ota-downloads.nvidia.com
 
 # ShortLinks # URL shorteners
 cutt.ly
