@@ -88,13 +88,13 @@ storeedgefd.dsx.mp.microsoft.com
 video-downloads.googleusercontent.com
 store-images.microsoft.com
 store-images.s-microsoft.com
-#apis.google.com
-#ajax.googleapis.com
 clients2.google.com
 clients4.google.com
 taskassist-pa.clients6.google.com
 tpc.googlesyndication.com
 ctldl.windowsupdate.com
+#apis.google.com
+#ajax.googleapis.com
 
 # Drive.google.com
 clients6.google.com
