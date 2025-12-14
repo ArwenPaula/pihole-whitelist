@@ -118,6 +118,9 @@ www.mercadolibre.com.ar
 www.mercadopago.com.ar
 mobile.mercadolibre.com.ar
 frontend.mercadolibre.com
+myaccount.mercadolibre.com.ar
+reviews.mercadolibre.com.ar
+print1.mercadoclics.com
 
 # ShortLinks # URL shorteners
 cutt.ly
