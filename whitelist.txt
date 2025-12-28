@@ -125,6 +125,8 @@ reviews.mercadolibre.com.ar
 print1.mercadoclics.com
 inmueble.mercadolibre.com.ar
 inmuebles.mercadolibre.com.ar
+articulo.mercadolibre.com.ar
+listado.mercadolibre.com.ar
 
 # ShortLinks # URL shorteners
 cutt.ly
