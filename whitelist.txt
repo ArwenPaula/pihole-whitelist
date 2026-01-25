@@ -114,8 +114,8 @@ taskassist-pa.clients6.google.com
 tpc.googlesyndication.com
 ctldl.windowsupdate.com
 chromedriver.storage.googleapis.com
-#apis.google.com
-#ajax.googleapis.com
+# apis.google.com
+# ajax.googleapis.com
 
 # Mails promos
 app2.salesmanago.pl
@@ -153,6 +153,10 @@ amzn.to
 amzn.com
 howifx.com
 theoremreach.com
+
+# Vesseo
+api.segment.io
+sentry.io
 
 # WattPad
 www.wattpad.com
@@ -195,5 +199,5 @@ cdn.samsungcloudsolution.com
 # d2c8v52ll5s99u.cloudfront.net
 
 # Xbox Achievements and game stats sync
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
+# v10.events.data.microsoft.com
+# v20.events.data.microsoft.com
