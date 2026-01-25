@@ -82,6 +82,12 @@ cdn.jsdelivr.net
 
 # Games
 www.skidrowreloaded.com
+www.xbox.com
+assets-xbxweb.xbox.com
+images-eds-ssl.xboxlive.com
+
+# Gdrivelatino.net fotos
+i.postimg.cc
 
 # GeForce Experience # Nvidia updates
 ota-downloads.nvidia.com
@@ -101,7 +107,6 @@ storeedgefd.dsx.mp.microsoft.com
 store-images.microsoft.com
 store-images.s-microsoft.com
 storeedge.microsoft.com
-images-eds-ssl.xboxlive.com
 video-downloads.googleusercontent.com
 clients2.google.com
 clients4.google.com
@@ -121,6 +126,7 @@ mercadolibre.com.ar
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 mobile.mercadolibre.com.ar
+matt.mercadolibre.com.ar
 frontend.mercadolibre.com
 myaccount.mercadolibre.com.ar
 reviews.mercadolibre.com.ar
@@ -130,6 +136,7 @@ inmuebles.mercadolibre.com.ar
 departamento.mercadolibre.com.ar
 articulo.mercadolibre.com.ar
 listado.mercadolibre.com.ar
+listado.mercadolibre.cl
 
 # ShortLinks # URL shorteners
 cutt.ly
