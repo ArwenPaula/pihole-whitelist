@@ -46,6 +46,13 @@ turn.cloudflare.com
 # Downloads
 download.megaup.net
 
+# Drive.google.com
+clients6.google.com
+addons-pa.clients6.google.com
+drivefrontend-pa.clients6.google.com
+people-pa.clients6.google.com
+peoplestack-pa.clients6.google.com
+
 # Facebook / Meta / Youtube
 # connect.facebook.net
 www.youtube-nocookie.com
@@ -81,6 +88,12 @@ ota-downloads.nvidia.com
 events.gfe.nvidia.com
 gfwsl.geforce.com
 
+# IOL
+iol.invertironline.com
+micuenta.invertironline.com
+api-gat-app.invertironline.com
+gat-app-public.iolinversiones.com
+
 # Microsoft / Google / Google Traductor / Google imagenes
 www.microsoft.com
 settings-win.data.microsoft.com
@@ -99,24 +112,12 @@ chromedriver.storage.googleapis.com
 #apis.google.com
 #ajax.googleapis.com
 
-# Drive.google.com
-clients6.google.com
-addons-pa.clients6.google.com
-drivefrontend-pa.clients6.google.com
-people-pa.clients6.google.com
-peoplestack-pa.clients6.google.com
-
-# IOL
-iol.invertironline.com
-micuenta.invertironline.com
-api-gat-app.invertironline.com
-gat-app-public.iolinversiones.com
-
 # Mails promos
 app2.salesmanago.pl
 mandrillapp.com
 
 # ML
+mercadolibre.com.ar
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 mobile.mercadolibre.com.ar
