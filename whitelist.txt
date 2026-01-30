@@ -34,7 +34,7 @@ p2p.binance.com
 app.binance.com
 im.binance.com
 
-# Cloudflare
+# Cloudflare / Hcaptcha
 a.nel.cloudflare.com
 ajax.cloudflare.com
 cdn.cloudflare.net
@@ -42,6 +42,7 @@ cdnjs.cloudflare.com
 challenges.cloudflare.com
 stun.cloudflare.com
 turn.cloudflare.com
+api.hcaptcha.com
 
 # Downloads
 download.megaup.net
@@ -139,20 +140,23 @@ listado.mercadolibre.com.ar
 listado.mercadolibre.cl
 
 # ShortLinks # URL shorteners
+amzn.com
+amzn.to
 cutt.ly
+cuttlinks.com
 cuty.io
 cdn.cuty.io
+exe.io
+exe-links.com
+howifx.com
 linkpay.top
 oii.la
 ouo.io
 shrinkearn.com
 t.co
-uii.io
 t.ly
-amzn.to
-amzn.com
-howifx.com
 theoremreach.com
+uii.io
 
 # Vesseo
 api.segment.io
