@@ -13,6 +13,11 @@ galiciabanco-mkt-prod3-lb.campaign.adobe.com
 galiciabanco.tt.omtrdc.net
 onlinebanking.bancogalicia.com.ar
 static.prod.naranjadev.com
+services.api.wealth-paid.ar.wilobank.com
+znd5am2znsq8oysf8-ualacx.siteintercept.qualtrics.com
+mobiled.icbc.com.ar
+coredeps.icbc.com.ar
+
 www.aysa.com.ar
 portal.web.aysa.com.ar
 acceso.web.aysa.com.ar
@@ -46,6 +51,7 @@ api.hcaptcha.com
 
 # Downloads
 download.megaup.net
+mega.nz
 
 # Drive.google.com
 clients6.google.com
@@ -54,9 +60,10 @@ drivefrontend-pa.clients6.google.com
 people-pa.clients6.google.com
 peoplestack-pa.clients6.google.com
 
-# Facebook / Meta / Youtube
+# Facebook / Meta / Youtube / Instagram
 # connect.facebook.net
 www.youtube-nocookie.com
+l.instagram.com
 
 # Faucet
 adbtc.top
