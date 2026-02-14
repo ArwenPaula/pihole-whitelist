@@ -6,6 +6,14 @@ honzik.avcdn.net
 ncc.avast.com
 ipmcdn.avast.com
 
+# Aysa / Metrogas
+www.aysa.com.ar
+portal.web.aysa.com.ar
+acceso.web.aysa.com.ar
+www.metrogas.com.ar	
+portal.micuenta.metrogas.com.ar
+tracking-api.andreani.com
+
 # Banco / Fintech / Aysa / Metrogas
 www.bna.com.ar
 bancodegaliciaybuenosairessau.data.adobedc.net
@@ -17,13 +25,6 @@ services.api.wealth-paid.ar.wilobank.com
 znd5am2znsq8oysf8-ualacx.siteintercept.qualtrics.com
 mobiled.icbc.com.ar
 coredeps.icbc.com.ar
-
-www.aysa.com.ar
-portal.web.aysa.com.ar
-acceso.web.aysa.com.ar
-www.metrogas.com.ar	
-portal.micuenta.metrogas.com.ar
-tracking-api.andreani.com
 
 # Binance
 accounts.binance.com
@@ -52,6 +53,7 @@ api.hcaptcha.com
 # Downloads
 download.megaup.net
 mega.nz
+streamplay.to
 
 # Drive.google.com
 clients6.google.com
