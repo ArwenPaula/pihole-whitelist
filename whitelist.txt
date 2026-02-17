@@ -14,7 +14,7 @@ www.metrogas.com.ar
 portal.micuenta.metrogas.com.ar
 tracking-api.andreani.com
 
-# Banco / Fintech / Aysa / Metrogas
+# Banco / Fintech
 www.bna.com.ar
 bancodegaliciaybuenosairessau.data.adobedc.net
 galiciabanco-mkt-prod3-lb.campaign.adobe.com
@@ -22,7 +22,7 @@ galiciabanco.tt.omtrdc.net
 onlinebanking.bancogalicia.com.ar
 static.prod.naranjadev.com
 services.api.wealth-paid.ar.wilobank.com
-znd5am2znsq8oysf8-ualacx.siteintercept.qualtrics.com
+#znd5am2znsq8oysf8-ualacx.siteintercept.qualtrics.com
 mobiled.icbc.com.ar
 coredeps.icbc.com.ar
 
@@ -32,7 +32,7 @@ api.binance.com
 www.binance.com
 native.binance.com
 s.binance.com
-log.bntrace.com
+#log.bntrace.com
 web3.binance.com
 stream.binance.com
 nbstream.binance.com
@@ -81,14 +81,14 @@ captchas.freebitco.in
 cfpages.freebitco.in
 fbtc-audio.freebitco.in
 sirv.freebitco.in
-static1.freebitco.in
+#static1.freebitco.in
 teaserfast.ru
 
 # Fuentes y CDNs comunes
-fonts.gstatic.com
-fonts.googleapis.com
+#fonts.gstatic.com
+#fonts.googleapis.com
 # use.fontawesome.com
-cdn.jsdelivr.net
+#cdn.jsdelivr.net
 
 # Games
 www.skidrowreloaded.com
@@ -118,10 +118,10 @@ store-images.microsoft.com
 store-images.s-microsoft.com
 storeedge.microsoft.com
 video-downloads.googleusercontent.com
-clients2.google.com
-clients4.google.com
-taskassist-pa.clients6.google.com
-tpc.googlesyndication.com
+#clients2.google.com
+#clients4.google.com
+#taskassist-pa.clients6.google.com
+#tpc.googlesyndication.com
 ctldl.windowsupdate.com
 chromedriver.storage.googleapis.com
 # apis.google.com
@@ -161,15 +161,15 @@ howifx.com
 linkpay.top
 oii.la
 ouo.io
+uii.io
 shrinkearn.com
 t.co
 t.ly
 theoremreach.com
-uii.io
 
 # Vesseo
-api.segment.io
-sentry.io
+#api.segment.io
+#sentry.io
 
 # WattPad
 www.wattpad.com
