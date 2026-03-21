@@ -54,6 +54,32 @@ api.hcaptcha.com
 download.megaup.net
 mega.nz
 streamplay.to
+api.gofile.io
+gofile.io
+cold-eu-agl-1.gofile.io
+cold-eu-par-1.gofile.io
+cold-na-phx-10.gofile.io
+cold-na-phx-1.gofile.io
+cold-na-phx-2.gofile.io
+cold-na-phx-3.gofile.io
+cold-na-phx-4.gofile.io
+cold-na-phx-5.gofile.io
+cold-na-phx-6.gofile.io
+cold-na-phx-7.gofile.io
+cold-na-phx-8.gofile.io
+cold-na-phx-9.gofile.io
+cold1.gofile.io
+cold2.gofile.io
+cold3.gofile.io
+cold4.gofile.io
+cold5.gofile.io
+cold6.gofile.io
+cold7.gofile.io
+cold8.gofile.io
+cold9.gofile.io
+pixeldrain.com
+f52.workupload.com
+workupload.com
 
 # Drive.google.com
 clients6.google.com
