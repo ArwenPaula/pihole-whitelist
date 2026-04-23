@@ -173,6 +173,7 @@ departamento.mercadolibre.com.ar
 articulo.mercadolibre.com.ar
 listado.mercadolibre.com.ar
 listado.mercadolibre.cl
+envios.mercadolibre.com.ar
 
 # ShortLinks # URL shorteners
 amzn.com
