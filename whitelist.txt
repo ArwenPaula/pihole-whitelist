@@ -158,6 +158,7 @@ app2.salesmanago.pl
 mandrillapp.com
 
 # ML
+auth.mercadolibre.com.ar
 mercadolibre.com.ar
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
