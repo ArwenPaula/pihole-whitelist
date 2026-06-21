@@ -51,6 +51,7 @@ turn.cloudflare.com
 api.hcaptcha.com
 
 # Downloads
+download1346.mediafire.com
 download.megaup.net
 mega.nz
 streamplay.to
