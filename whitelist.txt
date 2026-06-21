@@ -200,8 +200,8 @@ theoremreach.com
 #sentry.io
 
 # WattPad
-www.wattpad.com
 api.wattpad.com
+www.wattpad.com
 ma.wattpad.com
 img.wattpad.com
 
