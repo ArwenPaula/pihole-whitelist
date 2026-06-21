@@ -52,6 +52,7 @@ api.hcaptcha.com
 
 # Downloads
 download1346.mediafire.com
+download.internetdownloadmanager.com
 download.megaup.net
 mega.nz
 streamplay.to
