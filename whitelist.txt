@@ -114,6 +114,7 @@ static1.freebitco.in
 teaserfast.ru
 
 # Fuentes y CDNs comunes
+easylist-downloads.adblockplus.org
 #fonts.gstatic.com
 #fonts.googleapis.com
 # use.fontawesome.com
