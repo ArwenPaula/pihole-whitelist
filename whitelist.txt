@@ -59,6 +59,9 @@ mega.nz
 streamplay.to
 api.gofile.io
 gofile.io
+pixeldrain.com
+f52.workupload.com
+workupload.com
 cold-eu-agl-1.gofile.io
 cold-eu-par-1.gofile.io
 cold-na-phx-10.gofile.io
@@ -80,9 +83,6 @@ cold6.gofile.io
 cold7.gofile.io
 cold8.gofile.io
 cold9.gofile.io
-pixeldrain.com
-f52.workupload.com
-workupload.com
 
 # Drive.google.com
 clients6.google.com
@@ -147,14 +147,8 @@ store-images.microsoft.com
 store-images.s-microsoft.com
 storeedge.microsoft.com
 video-downloads.googleusercontent.com
-#clients2.google.com
-#clients4.google.com
-#taskassist-pa.clients6.google.com
-#tpc.googlesyndication.com
 ctldl.windowsupdate.com
 chromedriver.storage.googleapis.com
-# apis.google.com
-# ajax.googleapis.com
 
 # Mails promos
 app2.salesmanago.pl
