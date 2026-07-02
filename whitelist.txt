@@ -55,6 +55,7 @@ download1346.mediafire.com
 download.internetdownloadmanager.com
 download.megaup.net
 admdownload.adobe.com
+download.liteapks.dev
 mega.nz
 streamplay.to
 api.gofile.io
@@ -193,6 +194,11 @@ shrinkearn.com
 t.co
 t.ly
 theoremreach.com
+
+# Torrent
+www.torrentdownloads.pro
+www.torrentdownload.inf
+thepiratebay.org
 
 # Vesseo
 #api.segment.io
